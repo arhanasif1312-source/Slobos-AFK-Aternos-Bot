@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "RebirthSMP.play.hosting",
-    "port": 27586,
+    "port": 27017,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
